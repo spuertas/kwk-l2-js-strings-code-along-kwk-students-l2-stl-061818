@@ -2,4 +2,4 @@
 let currentUser = "me";
 let welcomeMessage = "Welcome to Klossybook, !";
 let excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, !"
-let shortGreeting = "Welcome, ${currentUser(0)} !"
+let shortGreeting = "Welcome, " + currentUser(0) + "!";
